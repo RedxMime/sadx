@@ -85,17 +85,18 @@ def main():
 
 def menu():
 	os.system('cls')
-	os.system('title EZ Raider [Nightfall#2512] ^| A simple discord server raider.')
+	os.system('From Genesis Intelligence Team ^| A simple discord server raider.')
 	print(f'''
-{Fore.LIGHTBLACK_EX} V0.01 Youtube Channel: NightfallGT, Discord Server: discord.gg/e8Qy8JKbUK
+{Fore.LIGHTBLACK_EX} V0.01 Glory to TGT
 		{Fore.RED}
-		▄███▄   ▄▄▄▄▄▄       █▄▄▄▄ ██   ▄█ ██▄   ▄███▄   █▄▄▄▄     
-		█▀   ▀ ▀   ▄▄▀       █  ▄▀ █ █  ██ █  █  █▀   ▀  █  ▄▀     
-		██▄▄    ▄▀▀   ▄▀     █▀▀▌  █▄▄█ ██ █   █ ██▄▄    █▀▀▌      
-		{Fore.LIGHTRED_EX}█▄   ▄▀ ▀▀▀▀▀▀       █  █  █  █ ▐█ █  █  █▄   ▄▀ █  █      
-		▀███▀                  █      █  ▐ ███▀  ▀███▀     █       
-		                      ▀      █                    ▀        
-		                            ▀      Nightfall #2512                    
+		
+████████╗░░░░██████╗░░░░████████╗
+╚══██╔══╝░░░██╔════╝░░░░╚══██╔══╝
+░░░██║░░░░░░██║░░██╗░░░░░░░██║░░░
+░░░██║░░░░░░██║░░╚██╗░░░░░░██║░░░
+░░░██║░░░██╗╚██████╔╝██╗░░░██║░░░
+░░░╚═╝░░░╚═╝░╚═════╝░╚═╝░░░╚═╝░░░
+		                            ▀      "We always comeback" -TGT                 
 ''')
 if __name__ == "__main__":
 	main()
