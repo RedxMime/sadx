@@ -42,7 +42,7 @@ def main():
 		for l in lines:
 			tokens.append(l.replace('\n', ''))
 
-	channel_id  = int(input("[!] Enter ID of the channel you want to raid >"))
+	channel_id  = int(input("[!] Enter discord Channel ID to fucking raid it >"))
 
 
 	messages_to_spam = []
@@ -55,7 +55,7 @@ def main():
 		messages_to_spam.append(message_spam)
 
 	os.system('cls')
-	print(f"The following messages will be spammed to the channel id {channel_id} \n")
+	print(f"The following messages will be spammed to the channel id GLORY TO TGT! {channel_id} \n")
 
 	for mes in messages_to_spam:
 		print(mes)
@@ -63,7 +63,7 @@ def main():
 	print('\n')
 	input("Hit enter to continue.")
 
-	os.system('title EZ Raider [Nightfall#2512] ^| ')
+	os.system('title GENESIS INTELLIGENCE TEAM ^| ')
 	os.system('cls')
 
 	print("Close the application or hit Control+C to stop spamming. \n")
